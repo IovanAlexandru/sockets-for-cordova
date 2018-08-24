@@ -1,0 +1,25 @@
+{
+  "version": "0.1.0",
+  "name": "sockets-for-cordova",
+  "cordova_name": "sockets-for-cordova",
+  "description": "Sockets Cordova plugin",
+  "license": "MIT",
+  "repo": "https://github.com/IovanAlexandru/sockets-for-cordova.git",
+  "issue": "https://github.com/IovanAlexandru/sockets-for-cordova/issues",
+  "keywords": [
+    "sockets",
+    "tcp",
+    "phonegap"
+  ],
+  "platforms": [
+    "ios",
+    "android",
+    "wp8"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.5.0"
+    }
+  ]
+}
